@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EndlessPager</string>
+    <string name="text_fragment_a">Fragment A</string>
+    <string name="text_fragment_b">Fragment B</string>
+    <string name="text_fragment_c">Fragment C</string>
+    <string name="text_fragment_d">Fragment D</string>
+</resources>

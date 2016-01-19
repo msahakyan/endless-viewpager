@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:layout_margin="50dp"
+             android:background="@color/fragmentc_bg"
+             tools:context="com.android.msahakyan.endlesspager.fragment.FragmentC">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/text_fragment_c"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_default"
+        android:textAllCaps="true"/>
+
+</FrameLayout>
